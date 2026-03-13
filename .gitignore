@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Vector store cache
+faiss_index/
+
+# Temp files
+*.tmp
+*.log
