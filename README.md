@@ -1,4 +1,5 @@
 # NeoBot — AI Chatbot with RAG & Web Search
+# DEMO - https://neobot-chatbot-ks9alccxleeh36xxmymtuq.streamlit.app/
 
 A Streamlit-based intelligent chatbot built for the NeoStats AI Engineer assessment.
 
